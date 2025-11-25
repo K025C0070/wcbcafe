@@ -58,3 +58,6 @@ img {
     background-position: center bottom;
     height: 800px;
 }
+.cover-home {
+    background-image: url(../images/images/cover-home-s.webp);
+}
